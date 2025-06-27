@@ -1,0 +1,14 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit",
+    "editor.defaultFormatter": "always",
+    "editor.formatOnType": "never",
+    "editor.formatOnPaste": "explicit",
+    "editor.formatOnSave": "explicit",
+    "editor.formatOnSaveMode": "always",
+    "files.autoSave": "always",
+    "vs-code-prettier-eslint.prettierLast": "never"
+  }
+}
